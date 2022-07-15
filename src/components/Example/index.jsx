@@ -4,7 +4,7 @@ import COLOR from "../../variables/color";
 import TEXTS from "../../variables/texts";
 
 const Example = () => {
-  return <StyledText>されるかな デプロイ（倒置法）</StyledText>;
+  return <StyledText>されなかった</StyledText>;
 };
 export default Example;
 
