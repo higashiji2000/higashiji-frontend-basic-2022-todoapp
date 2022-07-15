@@ -4,7 +4,7 @@ import COLOR from "../../variables/color";
 import TEXTS from "../../variables/texts";
 
 const Example = () => {
-  return <StyledText>This is example.</StyledText>;
+  return <StyledText>これでどうや</StyledText>;
 };
 export default Example;
 
